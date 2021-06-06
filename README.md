@@ -32,7 +32,7 @@ Altium Designer Project: [Soldering_Station](Control_Soldering_iron_and_Solderin
 ## Bottom:
 ![BOTTOM](pictures/Bottom_LUT.png)
 
-Original files [here](Control_Soldering_iron_and_Soldering_dryer/Project_Outputs_for_Control_Soldering_iron_and_dryer/)
+Original files [here](Control_Soldering_iron_and_Soldering_dryer/Project_Outputs_for_Control_Soldering_iron_and_dryer/Job_PCB_FOR_LUT.PDF)
 
 # Draftsman
 ![Draftsman](pictures/Draftsman.png)
