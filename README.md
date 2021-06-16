@@ -4,6 +4,7 @@ This repository implements Soldering Station with iron soldering and dryer solde
  - soldering iron temperature adjustment;
  - dryer soldering temperature adjustment;
  - adjustment of the speed of the dryer soldering.
+ 
 This project made for FLAT (Foil-laser-ironing technology)
 
 
